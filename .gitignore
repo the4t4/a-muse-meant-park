@@ -5,6 +5,13 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+
+Amusement_Park/Logs/
+Logs/
+
+Amusement_Park/Packages/
+Packages/
+
 # Visual Studio cache directory
 .vs/
 

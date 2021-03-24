@@ -1,6 +1,7 @@
 ## Development Environment
 Unity version 2019.4.21f1 (LTS)
 
+
 ## Milestones
 
 1. Milestone (week 4): Requirement analysis and planning: user stories, use case diagram, class diagram, mockups about how the game will look like.
@@ -12,6 +13,7 @@ Unity version 2019.4.21f1 (LTS)
 
 ## Introduction
 Design and implement a real-time theme park simulator (time can be sped up).
+
 
 The player has a rectangular area where she can build their own amusement park by placing buildings. The buildings can be different rides and attractions (games), and restaurants. The player can also build gardens and paths. She receives some initial funds to build a park at the start of the game. The park starts to receive guests when the player opens it. The guests have to pay an entry fee to get into the park. They can use the games, and buy food and drinks from the restaurants. The guests pay for these, and the prices are determined by the player. Some of the games may be covered by the entry fee.
 
